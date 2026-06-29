@@ -13,18 +13,6 @@
                 <input type="text" class="form-control" id="filter-nama">
             </div>
         </div>
-        <div class="col-2">
-            <div class="form-group">
-                <label>Harga Min</label>
-                <input type="number" class="form-control" id="filter-harga-min">
-            </div>
-        </div>
-        <div class="col-2">
-            <div class="form-group">
-                <label>Harga Max</label>
-                <input type="number" class="form-control" id="filter-harga-max">
-            </div>
-        </div>
     </div>
     <button class="btn btn-primary mt-1 btn-get-data">Filter</button>
     <span id="loading-filter" style="display: none;">Loading...</span>
